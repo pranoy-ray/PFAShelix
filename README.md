@@ -1,4 +1,4 @@
-# 🌀 Statistical Quantification of PFAS Backbone Helicity
+# 🌀 Statistical Quantification of Helicity in PFAS 
 
 [![Paper](https://img.shields.io/badge/J.%20Chem.%20Inf.%20Model.-10.1021%2Facs.jcim.6c01874-blue)](https://doi.org/10.1021/acs.jcim.6c01874)
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.22018077-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22018077)
