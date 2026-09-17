@@ -1,6 +1,4 @@
-# PFAShelix
-
-**Unraveling the PFAS Helix: A Statistical Approach**
+# Unraveling the PFAS Helix: A Statistical Approach
 
 A chemistry-agnostic, data-driven framework for quantifying the backbone helicity of per- and polyfluoroalkyl substances (PFAS) directly from carbon-backbone coordinates. The repository contains the DFT-optimized structures, extracted backbone coordinates, and descriptor-calculation code used in the paper.
 
